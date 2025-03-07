@@ -1,0 +1,14 @@
+{
+  "name": "play-with-node",
+  "version": "0.0.1",
+  "description": "Testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "author": "David Tevzadze",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

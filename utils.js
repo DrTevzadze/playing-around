@@ -1,0 +1,2 @@
+const name = "David";
+name
