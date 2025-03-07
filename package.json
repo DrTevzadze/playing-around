@@ -4,7 +4,7 @@
   "description": "Testing purposes",
   "main": "main.js",
   "scripts": {
-    "dev": "nodemon ./src/main.js"
+    "dev": "nodemon main.js"
   },
   "author": "David Tevzadze",
   "license": "MIT",
