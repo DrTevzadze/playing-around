@@ -2,9 +2,9 @@
   "name": "play-with-node",
   "version": "0.0.1",
   "description": "Testing purposes",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon ./src/main.js"
   },
   "author": "David Tevzadze",
   "license": "MIT",
